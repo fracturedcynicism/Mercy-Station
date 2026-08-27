@@ -104,3 +104,13 @@ It always continued.
 ---
 END
 ---
+
+Author's Note
+Mercy Station is a mystery-noir hybrid inspired by real-world events surrounding a 1968 death at an Indian railway station. The names, locations, and specific details have been entirely fictionalized. The core investigation structure reflects the actual forensic evidence from that case—the 1.5-inch penetrating wound, the post-mortem fractures, the positioned body, the compartment geometry, the systematic institutional suppression.
+The novel examines the specific horror of institutional truth suppression: not the horror of being killed, but the horror of understanding that you have been killed by a system designed to protect power, and that bearing witness to this truth is not enough to challenge the system.
+It explores two pathways of corruption:
+John Lobo's path: The brilliant investigator who reconstructs the perfect mystery but discovers that perfection of investigation is irrelevant against institutional will. Exiled. Silenced. Watching from the margins.
+Arun Dey's path: The next-generation investigator who inherits the evidence but discovers that evidence is useless against a system that has learned to close off every avenue of investigation. Seduced by technical challenge. Recruited not through coercion but through the irresistible logic of participation. Transformed into the machinery itself.
+The most devastating victory of institutional corruption is not silencing the witness—it is transforming the witness into the perpetrator. It is taking the brilliant mind that would challenge the system and teaching that mind to perfect the system.
+This is the real horror of Mercy Station: it is not that institutional corruption exists. It is that institutional corruption learns. It evolves. And it becomes very good at converting resistance into participation.
+
