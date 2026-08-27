@@ -1,37 +1,45 @@
 {
   "series": {
-    "title": "THE SANDHYA CYCLE",
+    "title": "Mercy",
     "subtitle": "Fractured Cynicism",
-    "tagline": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "tagline": "A noir murder mystery",
     "badge": "Series",
-    "synopsis": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "synopsis": "To stop a repeating railway murder, a young investigator must choose between the silent exile of the truth and the terrifying temptation of joining the machine.",
     "accentColor": "#C8832A",
     "accentDim": "#7A4E18"
   },
   "books": [
     {
       "id": 1,
-      "slug": "Sandhya cycle 1",
-      "title": "ASHES OF THE THIRTEENTH YEAR",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 1 ASHES OF THE THIRTEENTH YEAR.txt",
-      "setting": "Vedic India"
+      "slug": "Part-1 : THE DEATH",
+      "title": "Part-1 : THE DEATH",
+      "subtitle": "Novella",
+      "file": "books/Part-1.txt",
+      "setting": "India"
     },
         {
       "id": 2,
-      "slug": "Sandhya cycle 2",
-      "title": "VENOM OF THE AGE",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 2 VENOM OF THE AGE.txt",
-      "setting": "Vedic India"
+      "slug": "Part-2 : THE INVESTIGATION",
+      "title": "Part-2 : THE INVESTIGATION",
+      "subtitle": "Novella",
+      "file": "books/Part-2.txt",
+      "setting": "India"
     },
         {
       "id": 3,
-      "slug": "Sandhya cycle 3",
-      "title": "THE TORTOISE BACK",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 3 THE TORTOISE BACK.txt",
-      "setting": "Future"
+      "slug": "Part-3 : THE EXILE",
+      "title": "Part-3 : THE EXILE",
+      "subtitle": "Novella",
+      "file": "books/Part-3.txt",
+      "setting": "India"
+    },
+            {
+      "id": 4,
+      "slug": "Part-4 : THE INHERITED MACHINE",
+      "title": "Part-3 : THE INHERITED MACHINE",
+      "subtitle": "Novella",
+      "file": "books/Part-4.txt",
+      "setting": "India"
     }
   ]
 }
